@@ -6,6 +6,10 @@ class ConcreteHandlerOne extends Handler {
         requestsToHandle = new Request[] { Request.X, Request.Y };
     }
 
+    ConcreteHandlerOne() {
+        super();
+    }
+
     @Override
     void handleRequest(Request request) {
         if (canHandleRequest(request)) {

@@ -1,8 +1,10 @@
 package BehavioralPatterns.ChainOfResponsibility.AbstractExample;
 
 abstract class Handler {
-    Handler nextHandler = null;
+    private Handler nextHandler = null;
     Request[] requestsToHandle = {};
+
+    Handler() {}
 
     Handler(Handler nextHandler) {
         this.nextHandler = nextHandler;

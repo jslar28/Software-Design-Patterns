@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f1e796d-3422-47e7-a320-f34ca7e885e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/Composite/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/Composite/CompositeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/Composite/LeafNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/Composite/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/Flyweight/Trees/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/Flyweight/Trees/Forest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/Flyweight/Trees/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/Flyweight/Trees/TreeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/Flyweight/Trees/TreeType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Handler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +44,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">

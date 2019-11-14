@@ -1,9 +1,13 @@
 package BehavioralPatterns.ChainOfResponsibility.AbstractExample;
 
 class ConcreteHandlerTwo extends Handler {
-    public ConcreteHandlerTwo(Handler nextHandler) {
+    ConcreteHandlerTwo(Handler nextHandler) {
         super(nextHandler);
         requestsToHandle = new Request[] { Request.X, Request.Y, Request.Z };
+    }
+
+    ConcreteHandlerTwo() {
+        super();
     }
 
     @Override
