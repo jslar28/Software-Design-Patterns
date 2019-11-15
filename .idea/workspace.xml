@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f1e796d-3422-47e7-a320-f34ca7e885e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/Observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/Observer/ConcreteObserverOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/Observer/ConcreteObserverTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralPatterns/Observer/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/ConcreteHandlerTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BehavioralPatterns/ChainOfResponsibility/AbstractExample/Handler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +20,8 @@
       <list>
         <option value="FxmlFile" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -73,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StructuralPatterns.Composite.Client" />
       <module name="Software Design Patterns" />
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns._MazeGameComparison.WithBuilder.Client" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPatterns.Observer.Client" />
       <module name="Software Design Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPatterns._MazeGameComparison.WithBuilder.*" />
+          <option name="PATTERN" value="BehavioralPatterns.Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,19 +133,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CreationalPatterns._MazeGameComparison.WithPrototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CloneExercise (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.CloneExerciseTwo.CloneExercise" />
-      <module name="Software Design Patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CreationalPatterns.Singleton.CloneExerciseTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.CloneExercise (1)" />
       </list>
     </recent_temporary>
   </component>
