@@ -1,4 +1,4 @@
-package StructuralPatterns.Decorator;
+package StructuralPatterns.Decorator.ClassExercise;
 
 import java.io.*;
 
